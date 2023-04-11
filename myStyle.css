@@ -1,0 +1,58 @@
+body {
+  //color: white;
+  //background: black;
+  font-family: calibri;
+}
+
+A {
+  color: white;
+  background: blue;
+  text-decoration: none;
+}
+
+A:hover { color: blue; background: white}
+
+//A.active { color: white; background: blue}
+
+//A:visited { color: white; background: black}
+
+pre { word-wrap: break-word; whote-space: pre-wrap; }
+
+.container { position: relative; text-align: left; color: green }
+
+.top-left { position: absolute; top: 50px; left: 60px; font-weight: bold }
+
+table {
+  //border: 1px solid white ;
+  //border-collapse: collapse ;
+  //padding: 8px;
+}
+
+th { //font-size: 14px }
+
+td { //font-size: 12px; color: black; background-color: white }
+
+tr:nth-child(even) { //background-color : #505050 }
+
+h1 { font-family: calibri }
+
+h1, h2, h3 {display: inline }
+
+.noCrLf {display: inline }
+
+.hilite {background: yellow; font-weight: bold }
+
+a.black {
+  color: black ;
+  background: white ;
+  text-decoration: none ;
+  font-size: large ;
+  font-weight: bold
+}
+
+a:black:hover {
+  color: white;
+  background: black
+}
+
+.smiley { font-family: arial; background: yellow; font-weight: bold}
