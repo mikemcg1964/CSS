@@ -56,3 +56,20 @@ a:black:hover {
 }
 
 .smiley { font-family: arial; background: yellow; font-weight: bold}
+
+.nob { border: 0px; //nob = no border
+}
+
+.tab-bar {background-color: blue }
+
+.borderz { border: 1px solid black;
+  //border-collapse: collapse;
+  padding: 8px
+}
+
+a.hWhite:hover {background: white}
+
+a.standard {color: blue; background: white; text-decoration: underline }
+
+.greyBorder {border: 1px solid grey;
+  border-collapse: collapse; }
